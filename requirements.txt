@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+plotly
+MetaTrader5
+websockets
+requests
+python-dotenv
+pytest
